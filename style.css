@@ -189,8 +189,9 @@ form {
     height: 80%;
   }
   .map-image_heading{
-    width: 25%;
-    margin: auto;
+      display: flex;
+    justify-content: center;
+    align-items: center;
   }
   div.para {
     width: 110% !important;
